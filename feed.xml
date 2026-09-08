@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Dutch Report</title>
+    <link>https://adil1248.github.io/bmojb2vw8gjzyidkfv/</link>
+    <atom:link href="https://adil1248.github.io/bmojb2vw8gjzyidkfv/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A weekly Tuesday-morning hour on one fantasy football team: what last week actually did, who to add before the rest of the league wakes up, and where the roster breaks three weeks from now.</description>
+    <language>en-us</language>
+    <copyright>The Dutch Report</copyright>
+    <lastBuildDate>Tue, 08 Sep 2026 18:59:57 +0000</lastBuildDate>
+    <generator>rss.py</generator>
+    <image>
+      <url>https://adil1248.github.io/bmojb2vw8gjzyidkfv/cover.jpg</url>
+      <title>The Dutch Report</title>
+      <link>https://adil1248.github.io/bmojb2vw8gjzyidkfv/</link>
+    </image>
+    <itunes:author>The Dutch Report</itunes:author>
+    <itunes:summary>A weekly Tuesday-morning hour on one fantasy football team: what last week actually did, who to add before the rest of the league wakes up, and where the roster breaks three weeks from now.</itunes:summary>
+    <itunes:image href="https://adil1248.github.io/bmojb2vw8gjzyidkfv/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Sports"><itunes:category text="Fantasy Sports"/></itunes:category>
+    <itunes:owner><itunes:name>The Dutch Report</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Week 1 — 2026-09-08</title>
+      <link>https://adil1248.github.io/bmojb2vw8gjzyidkfv/</link>
+      <guid isPermaLink="false">neokhans-2026-09-08-e6d286e7</guid>
+      <pubDate>Tue, 08 Sep 2026 18:40:03 +0000</pubDate>
+      <description>&lt;p&gt;Everything in this episode is computed from the live league snapshot.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Everything in this episode is computed from the live league snapshot.</p>]]></content:encoded>
+      <itunes:title>Week 1 — 2026-09-08</itunes:title>
+      <itunes:summary>&lt;p&gt;Everything in this episode is computed from the live league snapshot.&lt;/p&gt;</itunes:summary>
+      <itunes:author>The Dutch Report</itunes:author>
+      <itunes:duration>564</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/bmojb2vw8gjzyidkfv/episodes/2026-09-08.mp3" length="6775502" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
