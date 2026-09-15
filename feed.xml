@@ -4,10 +4,10 @@
     <title>The Dutch Report</title>
     <link>https://adil1248.github.io/bmojb2vw8gjzyidkfv/</link>
     <atom:link href="https://adil1248.github.io/bmojb2vw8gjzyidkfv/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>A weekly Tuesday-morning show about the few fantasy-football signals worth knowing: what changed in the league, the one NFL game that concentrates the matchup, and the move or watch condition that follows.</description>
+    <description>A weekly Tuesday show for one fantasy manager: the week that just happened on his roster, this week's matchup and the lineup it demands, every riser on the add board with a verdict, and what the rest of the league did.</description>
     <language>en-us</language>
     <copyright>The Dutch Report</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 20:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:05:39 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/bmojb2vw8gjzyidkfv/cover.jpg</url>
@@ -15,12 +15,27 @@
       <link>https://adil1248.github.io/bmojb2vw8gjzyidkfv/</link>
     </image>
     <itunes:author>The Dutch Report</itunes:author>
-    <itunes:summary>A weekly Tuesday-morning show about the few fantasy-football signals worth knowing: what changed in the league, the one NFL game that concentrates the matchup, and the move or watch condition that follows.</itunes:summary>
+    <itunes:summary>A weekly Tuesday show for one fantasy manager: the week that just happened on his roster, this week's matchup and the lineup it demands, every riser on the add board with a verdict, and what the rest of the league did.</itunes:summary>
     <itunes:image href="https://adil1248.github.io/bmojb2vw8gjzyidkfv/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Sports"><itunes:category text="Fantasy Sports"/></itunes:category>
     <itunes:owner><itunes:name>The Dutch Report</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Week 2 — redo — 2026-09-15</title>
+      <link>https://adil1248.github.io/bmojb2vw8gjzyidkfv/</link>
+      <guid isPermaLink="false">neokhans-2026-09-15-redo-7e20fde4</guid>
+      <pubDate>Tue, 15 Sep 2026 23:03:26 +0000</pubDate>
+      <description>&lt;p&gt;Everything in this episode is computed from the live league snapshot.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Everything in this episode is computed from the live league snapshot.</p>]]></content:encoded>
+      <itunes:title>Week 2 — redo — 2026-09-15</itunes:title>
+      <itunes:summary>&lt;p&gt;Everything in this episode is computed from the live league snapshot.&lt;/p&gt;</itunes:summary>
+      <itunes:author>The Dutch Report</itunes:author>
+      <itunes:duration>716</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/bmojb2vw8gjzyidkfv/episodes/2026-09-15-redo.mp3" length="8600530" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Week 1 — 2026-09-15</title>
       <link>https://adil1248.github.io/bmojb2vw8gjzyidkfv/</link>
